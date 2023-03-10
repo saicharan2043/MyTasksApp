@@ -1,0 +1,24 @@
+.list-tag {
+  list-style: none;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.btn-tag {
+  height: 35px;
+  padding: 15px;
+  margin: 0px;
+  border: 2px solid #f3aa4e;
+  border-radius: 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.activeTab {
+  background-color: #f3aa4e;
+}

@@ -1,0 +1,35 @@
+.list-tasks {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #1a171d;
+  border-radius: 5px;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.task-name {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #f1f5f9;
+  font-weight: 500;
+  align-self: center;
+}
+
+.task-container {
+  height: 35px;
+  padding: 15px;
+  margin: 0px;
+  border-width: 0px;
+  background-color: #f3aa4e;
+  border-radius: 15px;
+  font-family: Roboto;
+  font-size: 15px;
+  color: #323f4b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
